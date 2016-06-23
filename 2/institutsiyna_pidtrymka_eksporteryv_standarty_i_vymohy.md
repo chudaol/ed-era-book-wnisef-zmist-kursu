@@ -1,0 +1,16 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
+#Частина 2
+<h3>Інституційна підтримка експортерів, стандарти та вимоги, електронні ресурси для експорту на європейські та міжнародні ринки.</h3>
+
+
+* [Тиждень 5. Електронні ресурси для експортерів: ЄС та його агенції](elektronni_resursy_dlya_eksporteryv.md)
+* [Тиждень 6. Технічне регулювання промислової продукції](tekhnychne_regulyuvannya_produktsii.md)
+* [Тиждень 7. Електронні ресурси по регулюванню харчової продукції, добровільним харчовим та іншим стандартам](elektronni_resursy_po_regulyuvannu_produktsii.md)
+* [Тиждень 8. Інституційна підтримка експортерів українськими та міжнародними інституціями](instytutsiyna_pidtrymka_eksporteryv.md)
+* [Тиждень 9. Захист прав інтелектуальної власності, перевірка потенційних партнерів, джерела додаткової маркетингової інформації](zakhyst_prav_intelektualnoi_vlasnosti.md)
+
+
+<div class="js-hypercomments-container">
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>
