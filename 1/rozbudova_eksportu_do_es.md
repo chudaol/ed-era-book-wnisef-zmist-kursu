@@ -1,4 +1,4 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 
 #Частина 1 
 <h3>Розбудова експорту до ЄС, як стратегічного напрямку розвитку бізнесу</h3>
@@ -10,6 +10,3 @@
 * [Тиждень 4. Маркетинг, брендинг, етика, бізнес-культура ](marketing_branding_etika_business_kulture.md)
 
 
-<div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
-</div>

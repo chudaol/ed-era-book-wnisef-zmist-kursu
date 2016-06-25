@@ -1,4 +1,4 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 
 ##Тиждень 2
 <h4>Експортні бізнес-моделі.</h4>
@@ -13,6 +13,3 @@
 <p>Укладання контрактів: шаблони контрактів для міжнародної торгівлі, деякі положення контрактів з іноземним представником.</p>
 
 
-<div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
-</div>

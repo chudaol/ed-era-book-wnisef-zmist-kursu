@@ -1,4 +1,4 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 
 ##Тиждень 6
 <h4>Технічне регулювання промислової продукції.</h4>
@@ -18,6 +18,3 @@
 <p>RAPEX - система швидкого оповіщення про небезпечні промислові товари.</p>
 
 
-<div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
-</div>

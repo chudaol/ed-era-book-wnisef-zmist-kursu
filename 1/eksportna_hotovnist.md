@@ -1,6 +1,6 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-##Тиждень 1. 
+
+##Тиждень 1
 <h4>Експортна готовність, експортне планування та дослідження ринку.</h4>
 
 
@@ -23,6 +23,3 @@
 <p>Розробка експортної стратегії та експортного плану, приклад структури експортного плану. </p>
 
 
-<div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
-</div>

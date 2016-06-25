@@ -1,4 +1,4 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 
 #Частина 2
 <h3>Інституційна підтримка експортерів, стандарти та вимоги, електронні ресурси для експорту на європейські та міжнародні ринки.</h3>
@@ -11,6 +11,3 @@
 * [Тиждень 9. Захист прав інтелектуальної власності, перевірка потенційних партнерів, джерела додаткової маркетингової інформації](zakhyst_prav_intelektualnoi_vlasnosti.md)
 
 
-<div class="js-hypercomments-container">
-<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
-</div>
